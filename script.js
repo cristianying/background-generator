@@ -1,6 +1,6 @@
 var todo = [
 	"asd",
-	"test",
+	"test lol",
 	"hello"
 ];
 
